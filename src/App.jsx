@@ -18,7 +18,7 @@ function App() {
       <main className="main-content">
         <Routes>
           <Route path='/React_MovieApp' element={<Home/>}/>
-          <Route path='/favorites' element={<Favorites/>}/> 
+          <Route path='/React_MovieApp/favorites' element={<Favorites/>}/> 
         </Routes>
       </main>
       </MovieProvider>

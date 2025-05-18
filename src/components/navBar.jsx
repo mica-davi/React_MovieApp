@@ -10,7 +10,7 @@ function NavBar(){
 
         <div className="navbar-links">
             <Link to="/React_MovieApp" className="nav-link">Home</Link>
-            <Link to="/favorites" className="nav-link">My Favorites</Link>
+            <Link to="/React_MovieApp/favorites" className="nav-link">My Favorites</Link>
         </div>
     </nav>
     )
